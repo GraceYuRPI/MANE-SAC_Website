@@ -1,0 +1,2 @@
+formatting: https://www.w3schools.com/Css/css_templates.asp
+rpi colors: https://scer.rpi.edu/brand-in-action/colors

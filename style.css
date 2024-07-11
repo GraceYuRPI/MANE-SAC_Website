@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    margin:0px;
+    padding:0px;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: #d6001c;
+  }
+
+  .navbar img{
+    float: left;
+    padding-top:10px;
+    padding-left: 40px;
+    padding-right: 5%;
+  }
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+    font-size: large;
+  }
+
+  .navbar a:hover {
+    background-color: #54585a;
+    color: white;
+  }
