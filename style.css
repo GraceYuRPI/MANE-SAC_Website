@@ -10,9 +10,14 @@
     font-family: 'Times New Roman', Times, serif;
   }
   
-  .navbar {
+  .navbar{
     overflow: hidden;
     background-color: #d6001c;
+  }
+  
+  .footer {
+    overflow: hidden;
+    background-color: #54585a;
   }
 
   .navbar img{
@@ -31,7 +36,22 @@
     font-size: large;
   }
 
+  .footer p{
+    float: center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+    font-size: large;
+  }
+
   .navbar a:hover {
     background-color: #54585a;
     color: white;
+  }
+
+
+  .title-section, .main-content {
+    margin: 20px;
   }
