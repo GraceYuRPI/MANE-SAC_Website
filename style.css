@@ -41,7 +41,7 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 20px 24px;
+    padding: 20px 10%;
     text-decoration: none;
     font-size: large;
   }
@@ -53,5 +53,15 @@
 
 
   .title-section, .main-content {
-    margin: 20px;
+    margin: 20px 5%;
+  }
+  
+  .list{
+    margin-left: 3%;
+  }
+
+  .event-poster{
+    padding: 20px 5%;
+    float: center;
+    margin-left: 22%;
   }
